@@ -16,25 +16,29 @@ Neptuno+
 
 
 
-Oric 1 & Atmos with MicroDisc
 
-Oric TeleStrat
 
-Philips VideoPac / Odyssey 2
+### Core coverage
 
-Adam Computer & Colecvision
+- Oric 1 & Atmos with MicroDisc
 
-Amstrad PCW
+- Oric TeleStrat
 
-Jupiter Ace
+- Philips VideoPac / Odyssey 2
 
-Sinclair QL 
+- Adam Computer & Colecvision
 
-ZXEvo TS-Conf
+- Amstrad PCW
 
-RC2014 & RC2014 MSX
+- Jupiter Ace
 
-Zemmix Neo MSX++
+- Sinclair QL 
+
+- ZXEvo TS-Conf
+
+- RC2014 & RC2014 MSX
+
+- Zemmix Neo MSX++
 
 
 
